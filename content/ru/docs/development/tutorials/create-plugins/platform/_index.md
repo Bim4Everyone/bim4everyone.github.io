@@ -5,10 +5,10 @@ draft: false
 params:
   author: dosymep
   
-title: Что такое Bim4Everyone?
-linkTitle: Что такое Bim4Everyone?
+title: Что такое ТИМ4Еверёне?
+linkTitle: Что такое ТИМ4Еверёне?
 description: |
-  Обзор платформы Bim4Everyone и её ключевых особенностей для разработчиков.
+  Обзор платформы ТИМ4Еверёне и её ключевых особенностей для разработчиков.
 
 tags: [test, docs]
 categories: [Examples, Placeholders]
