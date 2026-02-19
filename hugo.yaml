@@ -49,9 +49,9 @@ languages:
   ru:
     languageName: Русский
     contentDir: content/ru
-    title: Bim4Everyone
+    title: ТИМ4Еверёне
     params:
-      description: Bim4Everyone - Сайт документации
+      description: ТИМ4Еверёне - Сайт документации
       time_format_blog: 02.01.2006
       time_format_default: 02.01.2006
   en:
@@ -83,9 +83,9 @@ outputs:
   section: [HTML, print, RSS]
 
 # Enable google analitycs
-services:
-  googleAnalytics:
-    ID: G-MSVGDLBG1F
+# services:
+#   googleAnalytics:
+#     ID: 
 
 menu: 
   main:

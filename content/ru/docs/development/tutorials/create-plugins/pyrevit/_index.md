@@ -5,10 +5,10 @@ draft: false
 params:
   author: dosymep
   
-title: Что такое pyRevit?
-linkTitle: Что такое pyRevit?
+title: Что такое пайРевит?
+linkTitle: Что такое пайРевит?
 description: |
-  Обзор pyRevit: расширение для Revit, которое упрощает и ускоряет процесс разработки для пользователей.
+  Обзор пайРевит: расширение для Revit, которое упрощает и ускоряет процесс разработки для пользователей.
 
 tags: [test, docs]
 categories: [Examples, Placeholders]

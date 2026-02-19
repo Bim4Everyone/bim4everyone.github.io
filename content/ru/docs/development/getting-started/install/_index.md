@@ -19,19 +19,19 @@ weight: 30
 Для успешного начала разработки на нашей платформе необходимо выполнить 
 ряд шагов по установке и настройке необходимых инструментов.
 Следуйте данной инструкции, чтобы правильно настроить среду для работы 
-с Revit и pyRevit.
+с Revit и пайРевит.
 
 
-# Установка pyRevit
+# Установка пайРевит
 
-1. Перейдите на официальный сайт [pyRevit](https://www.pyrevitlabs.io/) и 
+1. Перейдите на официальный сайт [пайРевит](https://www.pyrevitlabs.io/) и 
 скачайте последнюю версию установщика для пользователя `pyRevit_<version>_signed.exe`.
 
-**pyRevit assets**
+**пайРевит assets**
 
 ![img.png](pyRevit-assets.png)
 
-2. Запустите установщик и следуйте инструкциям на экране для установки pyRevit.
+2. Запустите установщик и следуйте инструкциям на экране для установки пайРевит.
 
 Выбираем путь до места установки, в нашем случае должна быть папка `%appdata%\pyRevit-Master` как на скриншоте
 
@@ -41,9 +41,9 @@ weight: 30
 
 <img src="pyRevit-setup-page-4.png" width="550"/>
 
-3. После установки откройте Revit и убедитесь, что вкладка pyRevit появилась в интерфейсе.
+3. После установки откройте Revit и убедитесь, что вкладка пайРевит появилась в интерфейсе.
 
-**pyRevit**
+**пайРевит**
 ![img.png](pyRevit-tabs.png)
 
 # Установка платформы
@@ -82,14 +82,14 @@ pyrevit extend ui 03.KR "https://www.github.com/Bim4Everyone/KRExtensions"
 pyrevit extend ui 04.OV-VK "https://www.github.com/Bim4Everyone/HVACExtension"
 ```
 
-Установка библиотеки `Bim4Everyone`
+Установка библиотеки `ТИМ4Еверёне`
 ```
 pyrevit extend lib Bim4Everyone "https://www.github.com/Bim4Everyone/Bim4Everyone"
 ```
 
 1. После установки откройте Revit и убедитесь, что все установленные вкладки платформы появились в интерфейсе.
 
-**Bim4Everyone**
+**ТИМ4Еверёне**
 ![img.png](bim4everyone-tabs.png)
 
 # Настройка окружения
