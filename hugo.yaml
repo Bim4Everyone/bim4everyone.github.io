@@ -83,9 +83,9 @@ outputs:
   section: [HTML, print, RSS]
 
 # Enable google analitycs
-services:
-  googleAnalytics:
-    ID: G-MSVGDLBG1F
+# services:
+#   googleAnalytics:
+#     ID: G-XXXXXXX
 
 menu: 
   main:
